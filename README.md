@@ -1,7 +1,9 @@
 # Flare Client
-### **Flare Client is a C# External Utility for Minecraft Bedrock Edition (Previously written in C++) :sunglasses:** 
 
-#### Developers:
+Flare Client was a Minecraft utility mod for Bedrock Edition, that was archived by the owners around April 2020. 
+This is a continuation of the client that will (eventually) see some updates. 
+
+# Original Developers:
 
 ```
 ● EchoHackCmd
